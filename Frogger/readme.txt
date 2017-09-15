@@ -1,1 +1,1 @@
-Simple Frogger
+"Jogo" is the main class
