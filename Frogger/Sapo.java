@@ -1,6 +1,5 @@
 /*
  * Autor:Lucas de Queiroz Silva e Silva
- * DRE:115197960
  */
 
 
