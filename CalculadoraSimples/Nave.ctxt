@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=_x\ _y
+comment0.target=Nave(double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getTitulo()
+comment10.params=x\ y
+comment10.target=void\ aperto(int,\ int)
+comment11.params=x\ y
+comment11.target=void\ solta(int,\ int)
+comment2.params=
+comment2.target=int\ getLargura()
+comment3.params=
+comment3.target=int\ getAltura()
+comment4.params=teclas\ dt
+comment4.target=void\ tique(java.util.Set,\ double)
+comment5.params=tecla
+comment5.target=void\ tecla(java.lang.String)
+comment6.params=t
+comment6.target=void\ desenhar(Tela)
+comment7.params=x\ y
+comment7.target=void\ movimento(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ arrasto(int,\ int)
+comment9.params=x\ y
+comment9.target=void\ clique(int,\ int)
+numComments=12

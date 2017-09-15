@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=void\ digito(int)
+comment1.params=
+comment1.target=void\ memRecall()
+comment2.params=
+comment2.target=void\ memPlus()
+comment3.params=
+comment3.target=void\ memSub()
+comment4.params=
+comment4.target=void\ memClear()
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=obs
+comment6.target=void\ setObservador(ObservadorBigInteger)
+numComments=7

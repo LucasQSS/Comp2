@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=_x\ _y\ _larg\ _alt
+comment0.target=Componente(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getX1()
+comment2.params=
+comment2.target=int\ getY1()
+comment3.params=
+comment3.target=int\ getX2()
+comment4.params=
+comment4.target=int\ getY2()
+comment5.params=t
+comment5.target=void\ desenhar(Tela)
+comment6.params=x\ y
+comment6.target=void\ arrasto(int,\ int)
+comment7.params=x\ y
+comment7.target=void\ clique(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ aperto(int,\ int)
+comment9.params=x\ y
+comment9.target=void\ solta(int,\ int)
+numComments=10

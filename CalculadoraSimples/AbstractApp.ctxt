@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AbstractApp()
+comment1.params=teclas\ dt
+comment1.target=void\ tique(java.util.Set,\ double)
+comment2.params=tecla
+comment2.target=void\ tecla(java.lang.String)
+comment3.params=t
+comment3.target=void\ desenhar(Tela)
+comment4.params=x\ y
+comment4.target=void\ movimento(int,\ int)
+comment5.params=x\ y
+comment5.target=void\ arrasto(int,\ int)
+comment6.params=x\ y
+comment6.target=void\ clique(int,\ int)
+comment7.params=x\ y
+comment7.target=void\ aperto(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ solta(int,\ int)
+numComments=9

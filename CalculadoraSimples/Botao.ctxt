@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=_x\ _y\ _larg\ _alt\ _texto\ _frente\ _fundo\ _acao
+comment0.target=Botao(int,\ int,\ int,\ int,\ java.lang.String,\ Cor,\ Cor,\ Acao)
+comment1.params=x\ y
+comment1.target=void\ clique(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ aperto(int,\ int)
+comment3.params=x\ y
+comment3.target=void\ solta(int,\ int)
+comment4.params=t
+comment4.target=void\ desenhar(Tela)
+numComments=5

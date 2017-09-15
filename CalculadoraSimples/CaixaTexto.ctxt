@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_x\ _y\ _larg\ _alt\ _pos\ _borda\ _frente\ _fundo\ _texto
+comment0.target=CaixaTexto(int,\ int,\ int,\ int,\ int,\ Cor,\ Cor,\ Cor,\ Texto)
+comment1.params=t
+comment1.target=void\ desenhar(Tela)
+numComments=2
