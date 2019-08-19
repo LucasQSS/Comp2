@@ -1,3 +1,7 @@
+/*
+ * Autor:Lucas de Queiroz Silva e Silva
+ */
+
 import java.util.List;
 import java.util.ArrayList;
 import java.math.BigInteger;
