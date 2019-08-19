@@ -1,6 +1,5 @@
-
-/**
- * Cores em RGB
+/*
+ * Autor:Lucas de Queiroz Silva e Silva
  */
 public class Cor
 {
